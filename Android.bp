@@ -48,6 +48,7 @@ license {
 cc_library {
     name: "marisa-trie",
     sdk_version: "current",
+    min_sdk_version: "30",
     cflags: [
         "-Werror",
         "-Wall",
