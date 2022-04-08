@@ -13,5 +13,5 @@ third_party {
   }
   version: "v0.2.6"
   last_upgrade_date { year: 2020 month: 7 day: 17 }
-  license_type: RESTRICTED
+  license_type: NOTICE
 }
